@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raghul S [@itsraghul]
-- 👀 I’m interested in webapp development,flutter and machine learning
-- 🌱 I’m currently learning React front end development 
+- 👀 I’m interested in App development and Web3.
+- 🌱 I’m currently learning more about blockchain development 
 - 📫 How to reach me email : raghul2521@gmail.com
 
